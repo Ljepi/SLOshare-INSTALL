@@ -1,7 +1,7 @@
 <p align="center"><b>OPOMBA: To deluje samo za svež strežnik, ki nima nič na tem, razen nove namestitve OS!</b></p>
 
 ## Ta skladišče
-Namestitveni program za [SLOshare-TRACKER](https://github.com/Ljepi/SLOshare-TRACKER).
+Namestitveni program za [SLOshare](https://github.com/SLODovInnovations/SLOshare).
 
 **Uradno podprti OS**
 - Ubuntu 20.04 LTS (priporočeno)
