@@ -5,7 +5,7 @@ use App\Installer\Database\MySqlSetup;
 return [
     'min_php_version' => '7.4',
 
-    'repository' => 'https://github.com/Ljepi/SLOshare-TRACKER.git',
+    'repository' => 'https://github.com/SLODovInnovations/SLOshare.git',
 
     'database_installers' => [
         /**
