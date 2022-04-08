@@ -129,7 +129,6 @@ class SLOshareSetup extends BaseInstaller
         $www_cmds = [
             'laravel-echo-server client:add',
             'composer install -q',
-            'npm install cross-spawn'
             'npm install',
             'npx mix -p',
             'php artisan key:generate',
