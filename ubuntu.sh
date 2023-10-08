@@ -52,6 +52,10 @@ add_pkgs() {
     check $? "Namestitev PHP ni uspela!"
 
     echo -e "$IGreen OK $Color_Off"
+
+    #PHP Redis
+    echo -e "\n$Cyan Namestitev PHP Redis ... $Color_Off"
+    printf "\n" | pecl install redis
 }
 
 # Installs Composer

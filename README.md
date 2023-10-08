@@ -4,21 +4,12 @@
 Namestitveni program za [SLOshare](https://github.com/SLODovInnovations/SLOshare).
 
 **Uradno podprti OS**
-- Ubuntu 20.04 LTS (priporočeno)
-- Ubuntu 18.04 LTS
-- Ubuntu 16.04 LTS
+- Ubuntu 22.04 LTS (Jammy Jellyfish)
+- Ubuntu 20.04 LTS (Focal Fossa)
 
-**Za Ubuntu 20.04 LTS:**
+**Za namestitev zaženite naslednje:**
 ```
 git clone https://github.com/SLODovInnovations/SLOshare-INSTALLER.git installer
 cd installer
-sudo ./install.sh
-```
-
-**Za Ubuntu 16.04 LTS ali Ubuntu 18.04 LTS:**
-```
-git clone https://github.com/SLODovInnovations/SLOshare-INSTALLER.git installer
-cd installer
-git checkout Ubuntu-16.04-18.04
 sudo ./install.sh
 ```
